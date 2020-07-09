@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "525789022358",
+    "firebase_url": "https://haryana-e3d49.firebaseio.com",
+    "project_id": "haryana-e3d49",
+    "storage_bucket": "haryana-e3d49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525789022358:android:acc8a11174283133075ab7",
+        "android_client_info": {
+          "package_name": "com.covid19.haryana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525789022358-jtmdjs8u1tpi6es4pre77befvicrruqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.haryana",
+            "certificate_hash": "423cc1b7b474d761f16f68a8e3345bda1027bd42"
+          }
+        },
+        {
+          "client_id": "525789022358-k773inui5mene3o3lilvsrco3f6hlrno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaxyenT_gzg33prB5Q1BSWgFuOSF_AHZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525789022358-k773inui5mene3o3lilvsrco3f6hlrno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
