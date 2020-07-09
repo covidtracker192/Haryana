@@ -15,6 +15,22 @@
       },
       "oauth_client": [
         {
+          "client_id": "525789022358-32l106hvnm1radci602d02280pkqsam0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.haryana",
+            "certificate_hash": "324b694ad6acca3fb9d3a7020bb26d663e8f715c"
+          }
+        },
+        {
+          "client_id": "525789022358-jtmdjs8u1tpi6es4pre77befvicrruqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.haryana",
+            "certificate_hash": "423cc1b7b474d761f16f68a8e3345bda1027bd42"
+          }
+        },
+        {
           "client_id": "525789022358-k773inui5mene3o3lilvsrco3f6hlrno.apps.googleusercontent.com",
           "client_type": 3
         }
